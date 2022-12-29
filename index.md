@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+I'm a recent Math graduate with a computer science minor.
 
 # Math
 
