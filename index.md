@@ -2,6 +2,8 @@
 layout: default
 ---
 
+preserve header
+
 # Math
 
 [Link to another page](./another-page.html).
