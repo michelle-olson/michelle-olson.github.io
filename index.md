@@ -6,6 +6,8 @@ I'm a recent graduate with a B.A. in mathematics and a minor in computer science
 
 # Math
 
+I was part of the 2020 polymath REU. The research project focused on the geometry of a special family of convex sets. They're special because they satisfy a closure system which means the family of sets follow 3 rules.   
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
