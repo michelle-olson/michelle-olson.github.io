@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a recent Math graduate with a computer science minor.
+I'm a recent graduate with a B.A. in mathematics and a minor in computer science.
 
 # Math
 
