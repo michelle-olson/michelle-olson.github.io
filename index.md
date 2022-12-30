@@ -11,7 +11,7 @@ I was part of the 2020 polymath REU. The research project focused on the geometr
 ## Papers from the Project
 
 - [30 Convex Geometries impossible to represent by circles (2022)](https://arxiv.org/abs/2206.05636)
-- [7 Convex Geometries impossible to represent by circle (2020)](https://arxiv.org/abs/2008.13077)
+- [7 Convex Geometries impossible to represent by circles (2020)](https://arxiv.org/abs/2008.13077)
 
 
 
