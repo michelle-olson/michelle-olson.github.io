@@ -6,13 +6,10 @@ I'm a recent graduate with a B.A. in mathematics and a minor in computer science
 
 # Math
 
-I was part of the 2020 polymath REU. The research project focused on the geometry of a special family of convex sets. They're special because they satisfy a closure system which means the family of sets follow 3 rules. More details can be read in the convex geomety section [here](https://en.wikipedia.org/wiki/Antimatroid#Convex_geometries). 
+I was part of the 2020 polymath REU. The team I was on focused on convex geomtries. The research project focused on the geometry of a special family of convex sets. They're special because they satisfy a closure system which means the family of sets follow 3 rules. More details about the closure system can be read in the convex geomety section [here](https://en.wikipedia.org/wiki/Antimatroid#Convex_geometries). 
 
-[Link to another page](./another-page.html).
+Convex geometries have applications in computer science and operations research. It's been used to model scheduling problems. It's also been used as models in learning both for human learners and for A.I. 
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Computer Science
 
